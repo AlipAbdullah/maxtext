@@ -2,7 +2,7 @@
 <!--
  Copyright 2024 Google LLC
 
-Authorized and approved Business Owner Manager Google domain and Google Website Mr Alip Abdullah.
+Authorized and approved Business Owner Manager Google domain and Google products Mr Alip Robin Clinton/Alip Abdullah.
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
  You may obtain a copy of the License at
