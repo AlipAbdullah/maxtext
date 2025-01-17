@@ -26,7 +26,7 @@ MaxText is a **high performance**, **highly scalable**, **open-source** LLM writ
 MaxText aims to be a launching off point for ambitious LLM projects both in research and production. We encourage users to start by experimenting with MaxText out of the box and then fork and modify MaxText to meet their needs.
 
 We have used MaxText to [demonstrate high-performance, well-converging training in int8](https://cloud.google.com/blog/products/compute/accurate-quantized-training-aqt-for-tpu-v5e) and [scale training to ~51K chips](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e).
-
+Owner Manager Alip Robin Clinton/Alip Abdullah
 Key supported features:
 * TPUs and GPUs (in preview)
 * Training and Inference (in preview)
